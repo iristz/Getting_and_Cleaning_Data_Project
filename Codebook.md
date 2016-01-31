@@ -104,3 +104,10 @@ tBodyGyroJerkMean
 
 
 The complete list of variables of each feature vector is available in 'features.txt'
+
+##Steps to the tidy data
+1. Require to use reshapre2 library
+2. Load all the test and train files, and activity labels
+3. Merge data
+4. Extract mean and standard deviation
+5. Save the final file
