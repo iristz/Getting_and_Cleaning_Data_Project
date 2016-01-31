@@ -1,2 +1,3 @@
 # Getting_and_Cleaning_Data_Project
-project assiment
+# Purpose
+The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
