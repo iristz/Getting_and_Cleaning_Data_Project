@@ -3,8 +3,7 @@
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 # Description about Data
 The full description:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-#Project steps
-
+# Project steps
 Original Data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 1. Merges the training and the test sets to create one data set.
 2.  Extracts only the measurements on the mean and standard deviation for each measurement.
